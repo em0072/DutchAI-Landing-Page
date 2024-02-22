@@ -1,13 +1,28 @@
 name: Dutch AI
-description: You Dutch Teacher in Your Pocket
-full_description: 'DutchAI is an app powered by AI to help you prepare for the Inburgering exam.<br>
-<br>Features:
-<br>- Generate assignments for Writing and Cultural parts of the Inburgering exam
-<br>- Check your answers with AI
-<br>- Get help from AI to better prepare for the exam'
-# android: https://telegra.ph/Replace-this-link-07-23
+description: Master Dutch, Ace the Inburgering Exam
+full_description: '<b>Introducing DutchAI</b>: The smart way to prepare for the Inburgering exam. <br>
+With DutchAI, you get a tailored learning experience designed to boost your Dutch language skills and cultural understanding.
+<br><br>
+Features:
+<br>- <b>Custom Assignments</b>: Engage with personalized tasks in Writing and Cultural Knowledge, crafted to match your learning pace;
+<br>- <b>Instant Feedback</b>: Receive AI-driven feedback on your submissions, complete with grades and actionable insights;
+<br>- <b>Realistic Grading</b>: Benefit from grading that mirrors official criteria, helping you gauge your exam readiness accurately;
+<br>- <b>Comprehensive Support</b>: From tackling tough topics to understanding cultural nuances, DutchAI is your all-in-one prep tool.
+<br><br>
+<b>Why DutchAI?</b>
+<br><br>
+<br>- <b>Efficiency</b>: Maximize your study time with focused assignments and feedback.
+<br>- <b>Confidence</b>: Enter the exam room with confidence, knowing what to expect and how to excel.
+<br><br>
+<b>What’s Next?</b>
+<br><br>
+More exam components are on the way, expanding your preparation to cover all Inburgering exam parts.
+<br><br>
+<b>Start Your Success Story with DutchAI</b>: Dive into a learning experience that’s as rewarding as it is effective. Prepare, practice, and prevail with DutchAI.
+'
+android: https://telegra.ph/Replace-this-link-07-23
 iOS: https://telegra.ph/Replace-this-link-07-23
-# web: https://telegra.ph/Replace-this-link-07-23
+web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
   - 1.png
   - 2.png
