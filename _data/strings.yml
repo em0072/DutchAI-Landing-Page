@@ -12,5 +12,8 @@ footer:
     # - title: Donate
     #   url: https://paypal.me/kanbanote
     #   target: _blank
+    - title: Mail
+      url: mailto:dutchAI@mitko.me
+      target: _blank
     - title: Privacy
       url: /privacy
